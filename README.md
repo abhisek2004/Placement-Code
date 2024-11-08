@@ -1,7 +1,5 @@
 # Placement-Code
 
-Here's a fun and engaging "placement write-up" incorporating emojis for MERN and Java DSA:
-
 ---
 
 🚀 **Placement Write-Up: My Journey with MERN and Java DSA** 🚀
